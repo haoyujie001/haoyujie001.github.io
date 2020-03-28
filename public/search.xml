@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>【转载】github下载慢</title>
+      <link href="/2020/03/28/github%E4%B8%8B%E8%BD%BD%E6%85%A2/"/>
+      <url>/2020/03/28/github%E4%B8%8B%E8%BD%BD%E6%85%A2/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>通过码云来导入github，通过码云下载</p></blockquote><p>第一步：<br><strong>找一个你需要下载的GitHub项目</strong><img src="https://img-blog.csdnimg.cn/20200328093031557.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExNDM5Nzc1NTIw,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><p><strong>第二步：<br>复制链接</strong><br><img src="https://img-blog.csdnimg.cn/20200328093109637.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExNDM5Nzc1NTIw,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><p><strong>第三步：<br>打开码云，然后选择从GitHub导入</strong><br><img src="https://img-blog.csdnimg.cn/20200328093143714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExNDM5Nzc1NTIw,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><p><strong>第四步：<br>复制刚才的连接，起个名字，点击导入</strong><br><img src="https://img-blog.csdnimg.cn/20200328093223266.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExNDM5Nzc1NTIw,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><strong>这个过程大概一两分钟</strong><br><img src="https://img-blog.csdnimg.cn/20200328093315682.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExNDM5Nzc1NTIw,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><p>导入完成：直接下载zip<br><img src="https://img-blog.csdnimg.cn/20200328093348780.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExNDM5Nzc1NTIw,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><p>一个完整的过程动图<br><img src="https://img-blog.csdnimg.cn/20200328094952899.gif" alt="在这里插入图片描述"><br>原文链接：<a href="https://blog.csdn.net/a1439775520/article/details/105155813" target="_blank" rel="noopener">https://blog.csdn.net/a1439775520/article/details/105155813</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>搭建一个hexo+github博客的方法</title>
       <link href="/2020/03/28/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
       <url>/2020/03/28/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
